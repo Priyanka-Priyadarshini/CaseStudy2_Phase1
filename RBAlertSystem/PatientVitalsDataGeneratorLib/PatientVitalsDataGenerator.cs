@@ -1,17 +1,18 @@
-﻿using System;
+﻿//=============================================================================
+// COPYRIGHT KONINKLIJKE PHILIPS ELECTRONICS N.V. 2019
+// All rights are reserved. Reproduction in whole or in part is
+// prohibited without the written consent of the copyright owner.
+//============================================================================= 
+
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using PatientVitalsDataGeneratorContractsLib;
 using PatientVitalsDataModelsLib;
 using InstanceCreatorLib;
 using DataAccessContractsLib;
 using System.Reflection;
 using PatientVitalsRandomiseContractsLib;
-using VitalSignLib;using PatientVitalsType;
-using Spo2RandomiseLib;using PulseRateRandomiseLib;using TemperatureRandomiseLib;
-
+using VitalSignLib;
 namespace PatientVitalsDataGeneratorLib
 {
     /// <summary>
