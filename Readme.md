@@ -1,4 +1,10 @@
-#PatientMonitorSystemCaseStudy2
+//=============================================================================
+  COPYRIGHT KONINKLIJKE PHILIPS ELECTRONICS N.V. 2019<br/>
+  All rights are reserved. Reproduction in whole or in part is
+  prohibited without the written consent of the copyright owner.
+//============================================================================= 
+ 
+# PatientMonitorSystemCaseStudy2
 An API to serve multiple clients.
 BedCongifuration API- this configures the patient beds and discharge of patient
 Patient Monitoring API-1)PatientMonitoringController
