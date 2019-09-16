@@ -1,0 +1,11 @@
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\bin\Debug\TemperatureValidatorLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\bin\Debug\TemperatureValidatorLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\bin\Debug\ConstantsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\bin\Debug\PatientVitalsValidatorContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\bin\Debug\ConstantsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\bin\Debug\PatientVitalsValidatorContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\obj\Debug\TemperatureValidatorLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\obj\Debug\TemperatureValidatorLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\obj\Debug\TemperatureValidatorLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\obj\Debug\TemperatureValidatorLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureValidatorLib\obj\Debug\TemperatureValidatorLib.pdb

@@ -1,0 +1,6 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsRandomiseContractsLib\bin\Debug\PatientVitalsRandomiseContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsRandomiseContractsLib\bin\Debug\PatientVitalsRandomiseContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsRandomiseContractsLib\obj\Debug\PatientVitalsRandomiseContractsLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsRandomiseContractsLib\obj\Debug\PatientVitalsRandomiseContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsRandomiseContractsLib\obj\Debug\PatientVitalsRandomiseContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsRandomiseContractsLib\obj\Debug\PatientVitalsRandomiseContractsLib.pdb

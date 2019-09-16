@@ -1,0 +1,6 @@
+C:\Users\320066905\source\repos\RBAlertSystem\ConstantsLib\bin\Debug\ConstantsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\ConstantsLib\bin\Debug\ConstantsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\ConstantsLib\obj\Debug\ConstantsLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\ConstantsLib\obj\Debug\ConstantsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\ConstantsLib\obj\Debug\ConstantsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\ConstantsLib\obj\Debug\ConstantsLib.pdb

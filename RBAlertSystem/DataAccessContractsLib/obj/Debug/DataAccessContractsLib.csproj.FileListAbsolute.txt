@@ -1,0 +1,13 @@
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\bin\Debug\DataAccessContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\bin\Debug\DataAccessContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\bin\Debug\PatientVitalsDataModelsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\bin\Debug\VitalSignLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\bin\Debug\PatientVitalsType.dll
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\bin\Debug\PatientVitalsDataModelsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\bin\Debug\VitalSignLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\bin\Debug\PatientVitalsType.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\obj\Debug\DataAccessContractsLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\obj\Debug\DataAccessContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\obj\Debug\DataAccessContractsLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\obj\Debug\DataAccessContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\DataAccessContractsLib\obj\Debug\DataAccessContractsLib.pdb

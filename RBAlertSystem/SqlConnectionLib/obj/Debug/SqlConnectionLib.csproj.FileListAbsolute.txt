@@ -1,0 +1,6 @@
+C:\Users\320066905\source\repos\RBAlertSystem\SqlConnectionLib\bin\Debug\SqlConnectionLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\SqlConnectionLib\bin\Debug\SqlConnectionLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\SqlConnectionLib\obj\Debug\SqlConnectionLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\SqlConnectionLib\obj\Debug\SqlConnectionLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\SqlConnectionLib\obj\Debug\SqlConnectionLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\SqlConnectionLib\obj\Debug\SqlConnectionLib.pdb

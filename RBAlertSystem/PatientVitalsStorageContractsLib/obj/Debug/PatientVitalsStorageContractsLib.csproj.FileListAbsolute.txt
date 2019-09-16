@@ -1,0 +1,9 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsStorageContractsLib\bin\Debug\PatientVitalsStorageContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsStorageContractsLib\bin\Debug\PatientVitalsStorageContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsStorageContractsLib\bin\Debug\PatientVitalsDataModelsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsStorageContractsLib\bin\Debug\PatientVitalsDataModelsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsStorageContractsLib\obj\Debug\PatientVitalsStorageContractsLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsStorageContractsLib\obj\Debug\PatientVitalsStorageContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsStorageContractsLib\obj\Debug\PatientVitalsStorageContractsLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsStorageContractsLib\obj\Debug\PatientVitalsStorageContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsStorageContractsLib\obj\Debug\PatientVitalsStorageContractsLib.pdb

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.6.0.0">
+  <Summary numSequencePoints="39" visitedSequencePoints="27" numBranchPoints="12" visitedBranchPoints="7" sequenceCoverage="69.23" branchCoverage="58.33" maxCyclomaticComplexity="3" minCyclomaticComplexity="0" maxCrapScore="3.01" minCrapScore="0" visitedClasses="2" numClasses="3" visitedMethods="6" numMethods="10" />
+  <Modules>
+    <Module hash="A6-E5-02-C9-57-3A-F3-19-3A-32-56-30-3A-04-BF-13-7A-C2-27-25">
+      <Summary numSequencePoints="24" visitedSequencePoints="13" numBranchPoints="8" visitedBranchPoints="4" sequenceCoverage="54.17" branchCoverage="50" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="1" visitedClasses="1" numClasses="2" visitedMethods="4" numMethods="8" />
+      <ModulePath>C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib.Tests\bin\Debug\EnablePatientVitalsLib.Tests.dll</ModulePath>
+      <ModuleTime>2019-09-15T07:08:57.0277505Z</ModuleTime>
+      <ModuleName>EnablePatientVitalsLib.Tests</ModuleName>
+      <Files>
+        <File uid="1" fullPath="C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib.Tests\EnablePatientVitalsUnitTest.cs" />
+        <File uid="2" fullPath="C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib.Tests\FakeDataAccessStub.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="16" visitedSequencePoints="13" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="81.25" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="1" visitedClasses="1" numClasses="1" visitedMethods="4" numMethods="4" />
+          <FullName>EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest</FullName>
+          <Methods>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="true" isGetter="true" isSetter="false">
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Collections.Generic.List`1&lt;VitalSignLib.VitalSign&gt; EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest::get_vitalSign()</Name>
+              <FileRef uid="1" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="true">
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest::set_vitalSign(System.Collections.Generic.List`1&lt;VitalSignLib.VitalSign&gt;)</Name>
+              <FileRef uid="1" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="6" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest::Init()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="1" ordinal="0" offset="0" sl="19" sc="9" el="19" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="2" ordinal="1" offset="1" sl="20" sc="12" el="20" ec="60" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="3" ordinal="2" offset="12" sl="24" sc="13" el="24" ec="102" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="4" ordinal="3" offset="140" sl="25" sc="13" el="25" ec="44" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="5" ordinal="4" offset="157" sl="28" sc="12" el="28" ec="72" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="6" ordinal="5" offset="174" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="1" ordinal="0" offset="0" sl="19" sc="9" el="19" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest::GivenListOfPatientVitals_WhenEnablePatientVitalsCalled_ThenExpectedCountOne()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="7" ordinal="0" offset="0" sl="39" sc="9" el="39" ec="10" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="8" ordinal="1" offset="1" sl="40" sc="13" el="40" ec="79" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="9" ordinal="2" offset="23" sl="42" sc="13" el="42" ec="125" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="10" ordinal="3" offset="151" sl="44" sc="9" el="44" ec="10" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="7" ordinal="0" offset="0" sl="39" sc="9" el="39" ec="10" bec="0" bev="0" fileid="1">
+                <TrackedMethodRefs>
+                  <TrackedMethodRef uid="1" vc="1" />
+                </TrackedMethodRefs>
+              </MethodPoint>
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="40" branchCoverage="100" crapScore="1.22" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="5" visitedSequencePoints="2" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="40" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1.22" minCrapScore="1.22" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest::GivenNullPatientVitalsList_WhenEnablePatientVitalsCalled_ThenExceptionExpected()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="11" ordinal="0" offset="0" sl="48" sc="9" el="48" ec="10" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="2" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="12" ordinal="1" offset="1" sl="49" sc="13" el="49" ec="74" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="2" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="0" uspid="13" ordinal="2" offset="19" sl="51" sc="13" el="51" ec="44" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="14" ordinal="3" offset="36" sl="53" sc="13" el="53" ec="98" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="15" ordinal="4" offset="153" sl="59" sc="9" el="59" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="11" ordinal="0" offset="0" sl="48" sc="9" el="48" ec="10" bec="0" bev="0" fileid="1">
+                <TrackedMethodRefs>
+                  <TrackedMethodRef uid="2" vc="1" />
+                </TrackedMethodRefs>
+              </MethodPoint>
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="16" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="true" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest::.cctor()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="17" ordinal="0" offset="0" sl="31" sc="65" el="36" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="17" ordinal="0" offset="0" sl="31" sc="65" el="36" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest/&lt;&gt;c</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663309</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest/&lt;&gt;c::.cctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="18" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663310</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest/&lt;&gt;c::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="19" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="8" visitedSequencePoints="0" numBranchPoints="4" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="4" />
+          <FullName>EnablePatientVitalsLib.Tests.FakeDataAccessStub</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663304</MetadataToken>
+              <Name>System.Collections.Generic.List`1&lt;VitalSignLib.VitalSign&gt; EnablePatientVitalsLib.Tests.FakeDataAccessStub::GetEnabledVitalsList(System.String)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="20" ordinal="0" offset="0" sl="15" sc="9" el="15" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="21" ordinal="1" offset="1" sl="16" sc="13" el="16" ec="49" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="20" ordinal="0" offset="0" sl="15" sc="9" el="15" ec="10" bec="0" bev="0" fileid="2" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663305</MetadataToken>
+              <Name>PatientVitalsDataModelsLib.PatientVitals EnablePatientVitalsLib.Tests.FakeDataAccessStub::ReadPatientVitalsData(System.String)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="22" ordinal="0" offset="0" sl="20" sc="9" el="20" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="23" ordinal="1" offset="1" sl="21" sc="13" el="21" ec="49" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="22" ordinal="0" offset="0" sl="20" sc="9" el="20" ec="10" bec="0" bev="0" fileid="2" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663306</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.FakeDataAccessStub::WriteListOfEnabledPatientVitals(System.String,System.Collections.Generic.List`1&lt;VitalSignLib.VitalSign&gt;)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="24" ordinal="0" offset="0" sl="25" sc="9" el="25" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="25" ordinal="1" offset="1" sl="27" sc="9" el="27" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="24" ordinal="0" offset="0" sl="25" sc="9" el="25" ec="10" bec="0" bev="0" fileid="2" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663307</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.FakeDataAccessStub::WritePatientVitalsData(PatientVitalsDataModelsLib.PatientVitals)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="26" ordinal="0" offset="0" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="27" ordinal="1" offset="1" sl="32" sc="9" el="32" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="26" ordinal="0" offset="0" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="2" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663308</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.Tests.FakeDataAccessStub::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="28" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+      <TrackedMethods>
+        <TrackedMethod uid="1" token="100663300" name="System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest::GivenListOfPatientVitals_WhenEnablePatientVitalsCalled_ThenExpectedCountOne()" strategy="MSTestTest" />
+        <TrackedMethod uid="2" token="100663301" name="System.Void EnablePatientVitalsLib.Tests.EnablePatientVitalsUnitTest::GivenNullPatientVitalsList_WhenEnablePatientVitalsCalled_ThenExceptionExpected()" strategy="MSTestTest" />
+      </TrackedMethods>
+    </Module>
+    <Module hash="67-19-F8-00-F1-93-7D-BF-B0-95-6E-3B-88-65-29-0F-13-82-1C-10">
+      <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+      <ModulePath>C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib.Tests\bin\Debug\DataAccessContractsLib.dll</ModulePath>
+      <ModuleTime>2019-09-14T18:42:42.5298147Z</ModuleTime>
+      <ModuleName>DataAccessContractsLib</ModuleName>
+      <Files />
+      <Classes />
+      <TrackedMethods />
+    </Module>
+    <Module hash="40-CB-12-DB-11-5C-1F-60-5C-C6-DA-BA-F8-16-20-0E-A9-C5-BB-34">
+      <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+      <ModulePath>C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib.Tests\bin\Debug\PatientVitalsDataModelsLib.dll</ModulePath>
+      <ModuleTime>2019-09-13T17:36:08.6309117Z</ModuleTime>
+      <ModuleName>PatientVitalsDataModelsLib</ModuleName>
+      <Files>
+        <File uid="5" fullPath="C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataModelsLib\PatientVitals.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>PatientVitalsDataModelsLib.PatientVitals</FullName>
+          <Methods>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.String PatientVitalsDataModelsLib.PatientVitals::get_PatientId()</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void PatientVitalsDataModelsLib.PatientVitals::set_PatientId(System.String)</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Double PatientVitalsDataModelsLib.PatientVitals::get_SPO2()</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void PatientVitalsDataModelsLib.PatientVitals::set_SPO2(System.Double)</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Double PatientVitalsDataModelsLib.PatientVitals::get_PulseRate()</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void PatientVitalsDataModelsLib.PatientVitals::set_PulseRate(System.Double)</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Double PatientVitalsDataModelsLib.PatientVitals::get_Temperature()</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <MetadataToken>100663304</MetadataToken>
+              <Name>System.Void PatientVitalsDataModelsLib.PatientVitals::set_Temperature(System.Double)</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663305</MetadataToken>
+              <Name>System.Void PatientVitalsDataModelsLib.PatientVitals::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="29" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+      <TrackedMethods />
+    </Module>
+    <Module hash="7C-DB-A8-E5-20-27-A7-CC-F1-78-22-E2-67-EE-67-F5-29-1E-75-91">
+      <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+      <ModulePath>C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib.Tests\bin\Debug\VitalSignLib.dll</ModulePath>
+      <ModuleTime>2019-09-13T17:36:09.8676024Z</ModuleTime>
+      <ModuleName>VitalSignLib</ModuleName>
+      <Files>
+        <File uid="7" fullPath="C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\VitalSign.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>VitalSignLib.VitalSign</FullName>
+          <Methods>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Boolean VitalSignLib.VitalSign::get_IsEnabled()</Name>
+              <FileRef uid="7" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void VitalSignLib.VitalSign::set_IsEnabled(System.Boolean)</Name>
+              <FileRef uid="7" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <MetadataToken>100663299</MetadataToken>
+              <Name>PatientVitalsType.VitalsType VitalSignLib.VitalSign::get_Type()</Name>
+              <FileRef uid="7" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void VitalSignLib.VitalSign::set_Type(PatientVitalsType.VitalsType)</Name>
+              <FileRef uid="7" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void VitalSignLib.VitalSign::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="30" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+      <TrackedMethods />
+    </Module>
+    <Module hash="90-47-22-85-37-F1-39-66-A5-90-BA-74-BF-B4-E7-AC-BE-FD-3C-F2">
+      <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+      <ModulePath>C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib.Tests\bin\Debug\PatientVitalsType.dll</ModulePath>
+      <ModuleTime>2019-09-13T17:36:08.4912863Z</ModuleTime>
+      <ModuleName>PatientVitalsType</ModuleName>
+      <Files />
+      <Classes />
+      <TrackedMethods />
+    </Module>
+    <Module hash="03-61-D2-AC-18-5F-41-E4-24-03-AB-55-23-DB-9A-E3-EE-B3-EA-9A">
+      <Summary numSequencePoints="15" visitedSequencePoints="14" numBranchPoints="4" visitedBranchPoints="3" sequenceCoverage="93.33" branchCoverage="75" maxCyclomaticComplexity="3" minCyclomaticComplexity="1" maxCrapScore="3.01" minCrapScore="1" visitedClasses="1" numClasses="1" visitedMethods="2" numMethods="2" />
+      <ModulePath>C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib.Tests\bin\Debug\EnablePatientVitalsLib.dll</ModulePath>
+      <ModuleTime>2019-09-15T06:56:04.7471291Z</ModuleTime>
+      <ModuleName>EnablePatientVitalsLib</ModuleName>
+      <Files>
+        <File uid="9" fullPath="C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib\EnablePatientVitals.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="15" visitedSequencePoints="14" numBranchPoints="4" visitedBranchPoints="3" sequenceCoverage="93.33" branchCoverage="75" maxCyclomaticComplexity="3" minCyclomaticComplexity="1" maxCrapScore="3.01" minCrapScore="1" visitedClasses="1" numClasses="1" visitedMethods="2" numMethods="2" />
+          <FullName>EnablePatientVitalsLib.EnablePatientVitals</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.EnablePatientVitals::.ctor(DataAccessContractsLib.IDataAccessComponent)</Name>
+              <FileRef uid="9" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="31" ordinal="0" offset="0" sl="26" sc="9" el="26" ec="77" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="2" uspid="32" ordinal="1" offset="7" sl="27" sc="9" el="27" ec="10" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="2" uspid="33" ordinal="2" offset="8" sl="28" sc="13" el="28" ec="61" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="2" uspid="34" ordinal="3" offset="15" sl="29" sc="9" el="29" ec="10" bec="0" bev="0" fileid="9" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="31" ordinal="0" offset="0" sl="26" sc="9" el="26" ec="77" bec="0" bev="0" fileid="9" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="3" nPathComplexity="2" sequenceCoverage="90.91" branchCoverage="66.67" crapScore="3.01" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="11" visitedSequencePoints="10" numBranchPoints="3" visitedBranchPoints="2" sequenceCoverage="90.91" branchCoverage="66.67" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="3.01" minCrapScore="3.01" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void EnablePatientVitalsLib.EnablePatientVitals::EnableSelectedPatientVitals(System.String,System.Collections.Generic.List`1&lt;VitalSignLib.VitalSign&gt;)</Name>
+              <FileRef uid="9" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="35" ordinal="0" offset="0" sl="40" sc="9" el="40" ec="10" bec="0" bev="0" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                    <TrackedMethodRef uid="2" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="2" uspid="36" ordinal="1" offset="1" sl="41" sc="13" el="41" ec="20" bec="0" bev="0" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                    <TrackedMethodRef uid="2" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="2" uspid="37" ordinal="2" offset="2" sl="41" sc="34" el="41" ec="45" bec="0" bev="0" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                    <TrackedMethodRef uid="2" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="3" uspid="38" ordinal="3" offset="11" sl="41" sc="22" el="41" ec="30" bec="0" bev="0" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="3" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="3" uspid="39" ordinal="4" offset="19" sl="42" sc="13" el="42" ec="14" bec="0" bev="0" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="3" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="3" uspid="40" ordinal="5" offset="20" sl="43" sc="17" el="43" ec="68" bec="2" bev="1" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="3" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="0" uspid="41" ordinal="6" offset="53" sl="44" sc="21" el="44" ec="73" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="3" uspid="42" ordinal="7" offset="64" sl="45" sc="13" el="45" ec="14" bec="0" bev="0" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="3" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="4" uspid="43" ordinal="8" offset="65" sl="41" sc="31" el="41" ec="33" bec="0" bev="0" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="4" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="44" ordinal="9" offset="91" sl="46" sc="13" el="46" ec="90" bec="0" bev="0" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="45" ordinal="10" offset="105" sl="48" sc="9" el="48" ec="10" bec="0" bev="0" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="46" ordinal="0" offset="51" sl="43" path="0" offsetend="53" fileid="9" />
+                <BranchPoint vc="3" uspid="47" ordinal="1" offset="51" sl="43" path="1" offsetend="64" fileid="9">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="3" />
+                  </TrackedMethodRefs>
+                </BranchPoint>
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="35" ordinal="0" offset="0" sl="40" sc="9" el="40" ec="10" bec="0" bev="0" fileid="9">
+                <TrackedMethodRefs>
+                  <TrackedMethodRef uid="1" vc="1" />
+                  <TrackedMethodRef uid="2" vc="1" />
+                </TrackedMethodRefs>
+              </MethodPoint>
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+      <TrackedMethods />
+    </Module>
+    <Module hash="62-13-1B-CF-BF-44-D2-A0-0B-0C-42-B1-55-9E-42-DF-8D-35-F8-0C">
+      <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+      <ModulePath>C:\Users\320066905\source\repos\RBAlertSystem\EnablePatientVitalsLib.Tests\bin\Debug\IEnableVitalsContractsLib.dll</ModulePath>
+      <ModuleTime>2019-09-14T18:42:42.7492406Z</ModuleTime>
+      <ModuleName>IEnableVitalsContractsLib</ModuleName>
+      <Files />
+      <Classes />
+      <TrackedMethods />
+    </Module>
+  </Modules>
+</CoverageSession>

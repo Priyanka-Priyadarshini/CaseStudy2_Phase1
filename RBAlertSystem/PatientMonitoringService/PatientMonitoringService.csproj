@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessContractsLib\DataAccessContractsLib.csproj" />
+    <ProjectReference Include="..\DataAccessLib\DataAccessLib.csproj" />
+    <ProjectReference Include="..\EnablePatientVitalsLib\EnablePatientVitalsLib.csproj" />
+    <ProjectReference Include="..\GlobalShareLib\GlobalShareLib.csproj" />
+    <ProjectReference Include="..\IEnableVitalsContractsLib\IEnableVitalsContractsLib.csproj" />
+    <ProjectReference Include="..\InstanceCreatorLib\InstanceCreatorLib.csproj" />
+    <ProjectReference Include="..\PatientVitalsAlertUponValidationContractsLib\PatientVitalsAlertUponValidationContractsLib.csproj" />
+    <ProjectReference Include="..\PatientVitalsDataGeneratorContractsLib\PatientVitalsDataGeneratorContractsLib.csproj" />
+    <ProjectReference Include="..\PatientVitalsDataGeneratorLib\PatientVitalsDataGeneratorLib.csproj" />
+    <ProjectReference Include="..\PatientVitalsDataModelsLib\PatientVitalsDataModelsLib.csproj" />
+    <ProjectReference Include="..\PatientVitalsStorageContractsLib\PatientVitalsStorageContractsLib.csproj" />
+    <ProjectReference Include="..\PulseRateRandomiseLib\PulseRateRandomiseLib.csproj" />
+    <ProjectReference Include="..\PulseRateValidatorLib\PulseRateValidatorLib.csproj" />
+    <ProjectReference Include="..\QueuePatientVitalsStorageLib\QueuePatientVitalsStorageLib.csproj" />
+    <ProjectReference Include="..\RuleBasedPatientVitalsAlertUponValidationLib\RuleBasedPatientVitalsAlertUponValidationLib.csproj" />
+    <ProjectReference Include="..\TemperatureRandomiseLib\TemperatureRandomiseLib.csproj" />
+    <ProjectReference Include="..\TemperatureValidatorLib\TemperatureValidatorLib.csproj" />
+    <ProjectReference Include="..\VitalSignLib\VitalSignLib.csproj" />
+  </ItemGroup>
+
+</Project>

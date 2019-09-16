@@ -1,0 +1,664 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientMonitoringService\\PatientMonitoringService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\ConstantsLib\\ConstantsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\ConstantsLib\\ConstantsLib.csproj",
+        "projectName": "ConstantsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\ConstantsLib\\ConstantsLib.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj",
+        "projectName": "DataAccessContractsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessLib\\DataAccessLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessLib\\DataAccessLib.csproj",
+        "projectName": "DataAccessLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessLib\\DataAccessLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataGeneratorContractsLib\\DataGeneratorContractsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataGeneratorContractsLib\\DataGeneratorContractsLib.csproj",
+        "projectName": "DataGeneratorContractsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataGeneratorContractsLib\\DataGeneratorContractsLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DeafultPatientVitalsAlerterLib\\DeafultPatientVitalsAlerterLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DeafultPatientVitalsAlerterLib\\DeafultPatientVitalsAlerterLib.csproj",
+        "projectName": "DeafultPatientVitalsAlerterLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DeafultPatientVitalsAlerterLib\\DeafultPatientVitalsAlerterLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessLib\\DataAccessLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessLib\\DataAccessLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsAlerterContractsLib\\PatientVitalsAlerterContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsAlerterContractsLib\\PatientVitalsAlerterContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateValidatorLib\\PulseRateValidatorLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateValidatorLib\\PulseRateValidatorLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2ValidatorLib\\SPO2ValidatorLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2ValidatorLib\\SPO2ValidatorLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureValidatorLib\\TemperatureValidatorLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureValidatorLib\\TemperatureValidatorLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\EnablePatientVitalsLib\\EnablePatientVitalsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\EnablePatientVitalsLib\\EnablePatientVitalsLib.csproj",
+        "projectName": "EnablePatientVitalsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\EnablePatientVitalsLib\\EnablePatientVitalsLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessLib\\DataAccessLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessLib\\DataAccessLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\IEnableVitalsContractsLib\\IEnableVitalsContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\IEnableVitalsContractsLib\\IEnableVitalsContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj",
+        "projectName": "GlobalShareLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\IEnableVitalsContractsLib\\IEnableVitalsContractsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\IEnableVitalsContractsLib\\IEnableVitalsContractsLib.csproj",
+        "projectName": "IEnableVitalsContractsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\IEnableVitalsContractsLib\\IEnableVitalsContractsLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj",
+        "projectName": "InstanceCreatorLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientDataGeneratorLib\\PatientDataGeneratorLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientDataGeneratorLib\\PatientDataGeneratorLib.csproj",
+        "projectName": "PatientDataGeneratorLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientDataGeneratorLib\\PatientDataGeneratorLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataGeneratorContractsLib\\DataGeneratorContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataGeneratorContractsLib\\DataGeneratorContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateRandomiseLib\\PulseRateRandomiseLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateRandomiseLib\\PulseRateRandomiseLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2RandomiseLib\\SPO2RandomiseLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2RandomiseLib\\SPO2RandomiseLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureRandomiseLib\\TemperatureRandomiseLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureRandomiseLib\\TemperatureRandomiseLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientMonitoringService\\PatientMonitoringService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientMonitoringService\\PatientMonitoringService.csproj",
+        "projectName": "PatientMonitoringService",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientMonitoringService\\PatientMonitoringService.csproj",
+        "packagesPath": "C:\\Users\\320066905\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientMonitoringService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\320066905\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataGeneratorContractsLib\\DataGeneratorContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataGeneratorContractsLib\\DataGeneratorContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DeafultPatientVitalsAlerterLib\\DeafultPatientVitalsAlerterLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DeafultPatientVitalsAlerterLib\\DeafultPatientVitalsAlerterLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\EnablePatientVitalsLib\\EnablePatientVitalsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\EnablePatientVitalsLib\\EnablePatientVitalsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\IEnableVitalsContractsLib\\IEnableVitalsContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\IEnableVitalsContractsLib\\IEnableVitalsContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientDataGeneratorLib\\PatientDataGeneratorLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientDataGeneratorLib\\PatientDataGeneratorLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsAlerterContractsLib\\PatientVitalsAlerterContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsAlerterContractsLib\\PatientVitalsAlerterContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsStorageContractsLib\\PatientVitalsStorageContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsStorageContractsLib\\PatientVitalsStorageContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\QueuePatientVitalsStorageLib\\QueuePatientVitalsStorageLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\QueuePatientVitalsStorageLib\\QueuePatientVitalsStorageLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsAlerterContractsLib\\PatientVitalsAlerterContractsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsAlerterContractsLib\\PatientVitalsAlerterContractsLib.csproj",
+        "projectName": "PatientVitalsAlerterContractsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsAlerterContractsLib\\PatientVitalsAlerterContractsLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj",
+        "projectName": "PatientVitalsDataModelsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj",
+        "projectName": "PatientVitalsRandomiseContractsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsStorageContractsLib\\PatientVitalsStorageContractsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsStorageContractsLib\\PatientVitalsStorageContractsLib.csproj",
+        "projectName": "PatientVitalsStorageContractsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsStorageContractsLib\\PatientVitalsStorageContractsLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj",
+        "projectName": "PatientVitalsType",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj",
+        "projectName": "PatientVitalsValidatorContractsLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateRandomiseLib\\PulseRateRandomiseLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateRandomiseLib\\PulseRateRandomiseLib.csproj",
+        "projectName": "PulseRateRandomiseLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateRandomiseLib\\PulseRateRandomiseLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateValidatorLib\\PulseRateValidatorLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateValidatorLib\\PulseRateValidatorLib.csproj",
+        "projectName": "PulseRateValidatorLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PulseRateValidatorLib\\PulseRateValidatorLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\ConstantsLib\\ConstantsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\ConstantsLib\\ConstantsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\QueuePatientVitalsStorageLib\\QueuePatientVitalsStorageLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\QueuePatientVitalsStorageLib\\QueuePatientVitalsStorageLib.csproj",
+        "projectName": "QueuePatientVitalsStorageLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\QueuePatientVitalsStorageLib\\QueuePatientVitalsStorageLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessContractsLib\\DataAccessContractsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessLib\\DataAccessLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\DataAccessLib\\DataAccessLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\GlobalShareLib\\GlobalShareLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\InstanceCreatorLib\\InstanceCreatorLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsDataModelsLib\\PatientVitalsDataModelsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsStorageContractsLib\\PatientVitalsStorageContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsStorageContractsLib\\PatientVitalsStorageContractsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2RandomiseLib\\SPO2RandomiseLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2RandomiseLib\\SPO2RandomiseLib.csproj",
+        "projectName": "SPO2RandomiseLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2RandomiseLib\\SPO2RandomiseLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2ValidatorLib\\SPO2ValidatorLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2ValidatorLib\\SPO2ValidatorLib.csproj",
+        "projectName": "SPO2ValidatorLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\SPO2ValidatorLib\\SPO2ValidatorLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\ConstantsLib\\ConstantsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\ConstantsLib\\ConstantsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureRandomiseLib\\TemperatureRandomiseLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureRandomiseLib\\TemperatureRandomiseLib.csproj",
+        "projectName": "TemperatureRandomiseLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureRandomiseLib\\TemperatureRandomiseLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsRandomiseContractsLib\\PatientVitalsRandomiseContractsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureValidatorLib\\TemperatureValidatorLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureValidatorLib\\TemperatureValidatorLib.csproj",
+        "projectName": "TemperatureValidatorLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\TemperatureValidatorLib\\TemperatureValidatorLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\ConstantsLib\\ConstantsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\ConstantsLib\\ConstantsLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsValidatorContractsLib\\PatientVitalsValidatorContractsLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj",
+        "projectName": "VitalSignLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\VitalSignLib\\VitalSignLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\PatientVitalsType\\PatientVitalsType.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\bin\Debug\GlobalShareLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\bin\Debug\GlobalShareLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\bin\Debug\PatientVitalsDataModelsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\bin\Debug\PatientVitalsType.dll
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\bin\Debug\VitalSignLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\bin\Debug\PatientVitalsDataModelsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\bin\Debug\PatientVitalsType.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\bin\Debug\VitalSignLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\obj\Debug\GlobalShareLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\obj\Debug\GlobalShareLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\obj\Debug\GlobalShareLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\obj\Debug\GlobalShareLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\GlobalShareLib\obj\Debug\GlobalShareLib.pdb

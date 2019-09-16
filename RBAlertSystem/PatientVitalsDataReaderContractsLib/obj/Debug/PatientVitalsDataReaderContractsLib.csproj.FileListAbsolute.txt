@@ -1,0 +1,5 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataReaderContractsLib\bin\Debug\PatientVitalsDataReaderContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataReaderContractsLib\bin\Debug\PatientVitalsDataReaderContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataReaderContractsLib\obj\Debug\PatientVitalsDataReaderContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataReaderContractsLib\obj\Debug\PatientVitalsDataReaderContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataReaderContractsLib\obj\Debug\PatientVitalsDataReaderContractsLib.pdb

@@ -1,0 +1,11 @@
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\bin\Debug\Spo2ValidatorLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\bin\Debug\Spo2ValidatorLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\bin\Debug\ConstantsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\bin\Debug\PatientVitalsValidatorContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\bin\Debug\ConstantsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\bin\Debug\PatientVitalsValidatorContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\obj\Debug\Spo2ValidatorLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\obj\Debug\Spo2ValidatorLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\obj\Debug\Spo2ValidatorLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\obj\Debug\Spo2ValidatorLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\Spo2ValidatorLib\obj\Debug\Spo2ValidatorLib.pdb

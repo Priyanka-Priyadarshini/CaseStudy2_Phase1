@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigureService\\BedConfigureService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationAccessLib\\BedConfigurationAccessLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationAccessLib\\BedConfigurationAccessLib.csproj",
+        "projectName": "BedConfigurationAccessLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationAccessLib\\BedConfigurationAccessLib.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationModelLib\\BedConfigurationModelLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationModelLib\\BedConfigurationModelLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationModelLib\\BedConfigurationModelLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationModelLib\\BedConfigurationModelLib.csproj",
+        "projectName": "BedConfigurationModelLib",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationModelLib\\BedConfigurationModelLib.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigureService\\BedConfigureService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigureService\\BedConfigureService.csproj",
+        "projectName": "BedConfigureService",
+        "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigureService\\BedConfigureService.csproj",
+        "packagesPath": "C:\\Users\\320066905\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigureService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\320066905\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationAccessLib\\BedConfigurationAccessLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationAccessLib\\BedConfigurationAccessLib.csproj"
+              },
+              "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationModelLib\\BedConfigurationModelLib.csproj": {
+                "projectPath": "C:\\Users\\320066905\\source\\repos\\RBAlertSystem\\BedConfigurationModelLib\\BedConfigurationModelLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

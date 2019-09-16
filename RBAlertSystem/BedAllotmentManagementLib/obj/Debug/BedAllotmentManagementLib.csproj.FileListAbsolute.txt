@@ -1,0 +1,11 @@
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\bin\Debug\BedAllotmentManagementLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\bin\Debug\BedAllotmentManagementLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\bin\Debug\BedConfigurationAccessLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\bin\Debug\SqlConnectionLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\bin\Debug\BedConfigurationAccessLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\bin\Debug\SqlConnectionLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\obj\Debug\BedAllotmentManagementLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\obj\Debug\BedAllotmentManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\obj\Debug\BedAllotmentManagementLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\obj\Debug\BedAllotmentManagementLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\BedAllotmentManagementLib\obj\Debug\BedAllotmentManagementLib.pdb

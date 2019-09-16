@@ -1,0 +1,6 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsValidatorContractsLib\bin\Debug\PatientVitalsValidatorContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsValidatorContractsLib\bin\Debug\PatientVitalsValidatorContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsValidatorContractsLib\obj\Debug\PatientVitalsValidatorContractsLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsValidatorContractsLib\obj\Debug\PatientVitalsValidatorContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsValidatorContractsLib\obj\Debug\PatientVitalsValidatorContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsValidatorContractsLib\obj\Debug\PatientVitalsValidatorContractsLib.pdb

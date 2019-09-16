@@ -1,0 +1,9 @@
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureRandomiseLib\bin\Debug\TemperatureRandomiseLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureRandomiseLib\bin\Debug\TemperatureRandomiseLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureRandomiseLib\bin\Debug\PatientVitalsRandomiseContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureRandomiseLib\bin\Debug\PatientVitalsRandomiseContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureRandomiseLib\obj\Debug\TemperatureRandomiseLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureRandomiseLib\obj\Debug\TemperatureRandomiseLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureRandomiseLib\obj\Debug\TemperatureRandomiseLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureRandomiseLib\obj\Debug\TemperatureRandomiseLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\TemperatureRandomiseLib\obj\Debug\TemperatureRandomiseLib.pdb

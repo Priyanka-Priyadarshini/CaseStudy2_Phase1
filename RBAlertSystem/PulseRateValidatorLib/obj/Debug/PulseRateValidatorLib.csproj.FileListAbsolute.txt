@@ -1,0 +1,11 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\bin\Debug\PulseRateValidatorLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\bin\Debug\PulseRateValidatorLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\bin\Debug\ConstantsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\bin\Debug\PatientVitalsValidatorContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\bin\Debug\ConstantsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\bin\Debug\PatientVitalsValidatorContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\obj\Debug\PulseRateValidatorLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\obj\Debug\PulseRateValidatorLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\obj\Debug\PulseRateValidatorLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\obj\Debug\PulseRateValidatorLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateValidatorLib\obj\Debug\PulseRateValidatorLib.pdb

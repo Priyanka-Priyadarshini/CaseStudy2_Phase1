@@ -1,0 +1,9 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataGeneratorContractsLib\bin\Debug\PatientVitalsDataGeneratorContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataGeneratorContractsLib\bin\Debug\PatientVitalsDataGeneratorContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataGeneratorContractsLib\bin\Debug\PatientVitalsDataModelsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataGeneratorContractsLib\bin\Debug\PatientVitalsDataModelsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataGeneratorContractsLib\obj\Debug\PatientVitalsDataGeneratorContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataGeneratorContractsLib\obj\Debug\PatientVitalsDataGeneratorContractsLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataGeneratorContractsLib\obj\Debug\PatientVitalsDataGeneratorContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataGeneratorContractsLib\obj\Debug\PatientVitalsDataGeneratorContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataGeneratorContractsLib\obj\Debug\PatientVitalsDataGeneratorContractsLib.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\320066905\source\repos\RBAlertSystem\BedConfigurationAccessLib\bin\Debug\BedConfigurationAccessLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\BedConfigurationAccessLib\bin\Debug\BedConfigurationAccessLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\BedConfigurationAccessLib\obj\Debug\BedConfigurationAccessLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\BedConfigurationAccessLib\obj\Debug\BedConfigurationAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\BedConfigurationAccessLib\obj\Debug\BedConfigurationAccessLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\BedConfigurationAccessLib\obj\Debug\BedConfigurationAccessLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\BedConfigurationAccessLib\obj\Debug\BedConfigurationAccessLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\BedConfigurationAccessLib\bin\Debug\SqlConnectionLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\BedConfigurationAccessLib\bin\Debug\SqlConnectionLib.pdb

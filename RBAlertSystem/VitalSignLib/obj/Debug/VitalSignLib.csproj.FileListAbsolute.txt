@@ -1,0 +1,9 @@
+C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\bin\Debug\VitalSignLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\bin\Debug\VitalSignLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\bin\Debug\PatientVitalsType.dll
+C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\bin\Debug\PatientVitalsType.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\obj\Debug\VitalSignLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\obj\Debug\VitalSignLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\obj\Debug\VitalSignLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\obj\Debug\VitalSignLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\VitalSignLib\obj\Debug\VitalSignLib.pdb

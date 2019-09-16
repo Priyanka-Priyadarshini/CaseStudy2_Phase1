@@ -1,0 +1,9 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateRandomiseLib\bin\Debug\PulseRateRandomiseLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateRandomiseLib\bin\Debug\PulseRateRandomiseLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateRandomiseLib\bin\Debug\PatientVitalsRandomiseContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateRandomiseLib\bin\Debug\PatientVitalsRandomiseContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateRandomiseLib\obj\Debug\PulseRateRandomiseLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateRandomiseLib\obj\Debug\PulseRateRandomiseLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateRandomiseLib\obj\Debug\PulseRateRandomiseLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateRandomiseLib\obj\Debug\PulseRateRandomiseLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PulseRateRandomiseLib\obj\Debug\PulseRateRandomiseLib.pdb

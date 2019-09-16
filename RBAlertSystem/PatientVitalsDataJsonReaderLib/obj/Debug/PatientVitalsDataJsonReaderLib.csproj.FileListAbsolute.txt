@@ -1,0 +1,13 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\bin\Debug\PatientVitalsDataJsonReaderLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\bin\Debug\PatientVitalsDataJsonReaderLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\bin\Debug\PatientVitalsDataModelsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\bin\Debug\PatientVitalsDataReaderContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\bin\Debug\PatientVitalsDataModelsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\bin\Debug\PatientVitalsDataReaderContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\obj\Debug\PatientVitalsDataJsonReaderLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\obj\Debug\PatientVitalsDataJsonReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\obj\Debug\PatientVitalsDataJsonReaderLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\obj\Debug\PatientVitalsDataJsonReaderLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataJsonReaderLib\obj\Debug\PatientVitalsDataJsonReaderLib.pdb

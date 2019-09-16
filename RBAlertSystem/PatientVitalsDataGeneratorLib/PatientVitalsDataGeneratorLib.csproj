@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E205EFA6-80C7-4A70-B500-8A6A7A19A6BB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PatientVitalsDataGeneratorLib</RootNamespace>
+    <AssemblyName>PatientVitalsDataGeneratorLib</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PatientVitalsDataGenerator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessContractsLib\DataAccessContractsLib.csproj">
+      <Project>{4c2533d5-712d-49bf-a1d1-93dae83854d8}</Project>
+      <Name>DataAccessContractsLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InstanceCreatorLib\InstanceCreatorLib.csproj">
+      <Project>{861fe79c-b286-4524-b588-579db84fc038}</Project>
+      <Name>InstanceCreatorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PatientVitalsDataGeneratorContractsLib\PatientVitalsDataGeneratorContractsLib.csproj">
+      <Project>{22d909a5-3f4d-4b25-8e9e-d01525009483}</Project>
+      <Name>PatientVitalsDataGeneratorContractsLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PatientVitalsDataModelsLib\PatientVitalsDataModelsLib.csproj">
+      <Project>{2718008b-2b00-49d6-b0dc-4dd66d1bc4ca}</Project>
+      <Name>PatientVitalsDataModelsLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PatientVitalsRandomiseContractsLib\PatientVitalsRandomiseContractsLib.csproj">
+      <Project>{76c9268e-153c-4242-ae7e-1946de460dee}</Project>
+      <Name>PatientVitalsRandomiseContractsLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PatientVitalsType\PatientVitalsType.csproj">
+      <Project>{0b3c6d5e-9e1b-4313-9b28-4ca79e72453f}</Project>
+      <Name>PatientVitalsType</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PulseRateRandomiseLib\PulseRateRandomiseLib.csproj">
+      <Project>{076ae739-2b04-48e5-8482-39994251094e}</Project>
+      <Name>PulseRateRandomiseLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Spo2RandomiseLib\Spo2RandomiseLib.csproj">
+      <Project>{5d11afbd-113f-437c-a997-4d4402bed853}</Project>
+      <Name>Spo2RandomiseLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TemperatureRandomiseLib\TemperatureRandomiseLib.csproj">
+      <Project>{aea77a37-a241-4cdf-a83f-4160aea66c5f}</Project>
+      <Name>TemperatureRandomiseLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VitalSignLib\VitalSignLib.csproj">
+      <Project>{e106beeb-5ac8-4b5e-bfb9-e163b426a766}</Project>
+      <Name>VitalSignLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\IEnableVitalsContractsLib.dll.config
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\IEnableVitalsContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\IEnableVitalsContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\VitalSignLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\PatientVitalsType.dll
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\VitalSignLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\PatientVitalsType.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\obj\Debug\IEnableVitalsContractsLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\obj\Debug\IEnableVitalsContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\obj\Debug\IEnableVitalsContractsLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\obj\Debug\IEnableVitalsContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\obj\Debug\IEnableVitalsContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\DataAccessContractsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\PatientVitalsDataModelsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\DataAccessContractsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\IEnableVitalsContractsLib\bin\Debug\PatientVitalsDataModelsLib.pdb

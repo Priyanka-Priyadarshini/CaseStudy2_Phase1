@@ -1,0 +1,13 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\bin\Debug\PatientRegistrationDeskLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\bin\Debug\PatientRegistrationDeskLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\bin\Debug\BedConfigurationAccessLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\bin\Debug\SqlConnectionLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\bin\Debug\BedConfigurationAccessLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\bin\Debug\SqlConnectionLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\obj\Debug\PatientRegistrationDeskLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\obj\Debug\PatientRegistrationDeskLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\obj\Debug\PatientRegistrationDeskLib.csproj.CopyComplete
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\obj\Debug\PatientRegistrationDeskLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\obj\Debug\PatientRegistrationDeskLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\bin\Debug\BedAllotmentManagementLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientRegistrationDeskLib\bin\Debug\BedAllotmentManagementLib.pdb

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessContractsLib\DataAccessContractsLib.csproj" />
+    <ProjectReference Include="..\DataAccessLib\DataAccessLib.csproj" />
+    <ProjectReference Include="..\InstanceCreatorLib\InstanceCreatorLib.csproj" />
+    <ProjectReference Include="..\PatientVitalsDataModelsLib\PatientVitalsDataModelsLib.csproj" />
+    <ProjectReference Include="..\PatientVitalsStorageContractsLib\PatientVitalsStorageContractsLib.csproj" />
+    <ProjectReference Include="..\QueuePatientVitalsStorageLib\QueuePatientVitalsStorageLib.csproj" />
+  </ItemGroup>
+
+</Project>

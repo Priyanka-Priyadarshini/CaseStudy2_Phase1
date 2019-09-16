@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{861FE79C-B286-4524-B588-579DB84FC038}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InstanceCreatorLib</RootNamespace>
+    <AssemblyName>InstanceCreatorLib</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="InstanceCreator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PulseRateRandomiseLib\PulseRateRandomiseLib.csproj">
+      <Project>{076ae739-2b04-48e5-8482-39994251094e}</Project>
+      <Name>PulseRateRandomiseLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PulseRateValidatorLib\PulseRateValidatorLib.csproj">
+      <Project>{23eec17c-6a2d-48a0-8b87-4caee3db7b21}</Project>
+      <Name>PulseRateValidatorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Spo2RandomiseLib\Spo2RandomiseLib.csproj">
+      <Project>{5d11afbd-113f-437c-a997-4d4402bed853}</Project>
+      <Name>Spo2RandomiseLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Spo2ValidatorLib\Spo2ValidatorLib.csproj">
+      <Project>{557168e2-206b-4891-9865-4a77be4b1963}</Project>
+      <Name>Spo2ValidatorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TemperatureRandomiseLib\TemperatureRandomiseLib.csproj">
+      <Project>{aea77a37-a241-4cdf-a83f-4160aea66c5f}</Project>
+      <Name>TemperatureRandomiseLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TemperatureValidatorLib\TemperatureValidatorLib.csproj">
+      <Project>{74af38e9-017d-4737-b301-7facaa6f1a2a}</Project>
+      <Name>TemperatureValidatorLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

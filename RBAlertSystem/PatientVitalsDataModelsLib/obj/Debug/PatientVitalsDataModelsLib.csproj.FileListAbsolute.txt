@@ -1,0 +1,6 @@
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataModelsLib\bin\Debug\PatientVitalsDataModelsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataModelsLib\bin\Debug\PatientVitalsDataModelsLib.pdb
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataModelsLib\obj\Debug\PatientVitalsDataModelsLib.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataModelsLib\obj\Debug\PatientVitalsDataModelsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataModelsLib\obj\Debug\PatientVitalsDataModelsLib.dll
+C:\Users\320066905\source\repos\RBAlertSystem\PatientVitalsDataModelsLib\obj\Debug\PatientVitalsDataModelsLib.pdb
