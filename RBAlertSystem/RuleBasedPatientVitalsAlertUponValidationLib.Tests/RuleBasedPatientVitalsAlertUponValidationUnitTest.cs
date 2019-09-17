@@ -29,7 +29,7 @@ namespace RuleBasedPatientVitalsAlertUponValidationLib.Tests
         public void GivenPatientIdWhoseDataStored_WhenPatientVitalsAlertUponValidation_ThenExpectedAlertMessage()
         {
             dataAccess.WritePatientVitalsData(new PatientVitals() { PatientId = "101", Temperature = 100, Spo2 = 96, PulseRate = 70 });
-            string str = "TemperatureAlert ";
+            string str = "Spo2Alert TemperatureAlert ";
            Assert.AreEqual(str, vitalsAlertUponValidation.PatientVitalsAlertUponValidation("101"));
             
 
