@@ -30,7 +30,7 @@ namespace PatientVitalsAlerterLib
         /// <returns>alert message</returns>
         public string SendAlert(VitalSign item , PatientVitals patientVitals)
         {
-            StringBuilder stringBuilder = new StringBuilder("Healthy", 40);
+            StringBuilder stringBuilder = new StringBuilder(40);
             if (item.IsEnabled)
             {
 
@@ -38,7 +38,7 @@ namespace PatientVitalsAlerterLib
                 var vitalsValidator = InstanceCreator.Create_Instance(property.Name, "Validator") as IPatientVitalsValidate;
                 if (!vitalsValidator.Validate((double)property.GetValue(patientVitals)))
                 {
-                    stringBuilder.Replace("Healthy", "");
+                    
                     stringBuilder.Append(property.Name + "Alert ");
                 }
             }
