@@ -46,7 +46,7 @@ namespace RuleBasedPatientVitalsAlertUponValidationLib
             List<VitalSign> enabledVitalsList = _dataAccessComponent.GetEnabledVitalsList(patientId);
             foreach (var item in enabledVitalsList)
             {
-                alertMessage=patientVitalsAlerter.SendAlert(item, patientVitals);
+                alertMessage+=patientVitalsAlerter.SendAlert(item, patientVitals);
             }
 
             return alertMessage;
