@@ -48,7 +48,8 @@ namespace RuleBasedPatientVitalsAlertUponValidationLib
             {
                 alertMessage+=patientVitalsAlerter.SendAlert(item, patientVitals);
             }
-
+             if (alertMessage == "")
+                alertMessage = "Healthy";
             return alertMessage;
         }
         #endregion
